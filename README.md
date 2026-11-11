@@ -273,19 +273,22 @@ Developed during my AI/ML internship at WebMobi360.
 
 ---
 
+
 <!-- =============== GITHUB ANALYTICS =============== -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AdhravRai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhravRai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<a href="https://github.com/AdhravRai">
+<img src="https://streak-stats.demolab.com?user=AdhravRai&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AdhravRai&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/AdhravRai?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -295,11 +298,10 @@ Developed during my AI/ML internship at WebMobi360.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdhravRai&theme=tokyo-night&hide_border=true&area=true"/>
+[![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdhravRai&theme=tokyonight)](https://github.com/AdhravRai)
 
 </div>
 
----
 
 <!-- =============== CONNECT =============== -->
 
